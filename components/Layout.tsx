@@ -8,9 +8,9 @@ export default function Layout(props: any) {
           {props.children}
         </Box>
         <Box mb={4} textAlign="center">
-          Page by{' '}
-          <Link href="https://twitter.com/kalleraus" color="orange.400">
-            Kalle Raus
+          HEI Academy{' '}
+          <Link href="https://www.instagram.com/heiacademy.id/?hl=en" color="orange.400">
+          🔎#TheBestVersionofMyself
           </Link>
         </Box>
       </Box>
